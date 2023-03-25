@@ -1,0 +1,10 @@
+insert into topping (description, price) values ('VEG Black olive', 20.0);
+insert into topping (description, price) values ('VEG Capsicum ', 25.0);
+insert into topping (description, price) values ('VEG Paneer ', 35.0);
+insert into topping (description, price) values ('VEG Mushroom ', 30.0);
+insert into topping (description, price) values ('VEG Fresh tomato', 10.0);
+insert into topping (description, price) values ('NON VEG Chicken tikka ', 35.0);
+insert into topping (description, price) values ('NON VEG Barbeque chicken (', 45.0);
+insert into topping (description, price) values ('NON VEG Grilled chicken', 40.0);
+insert into topping (description, price) values ('Extra cheese', 35.0);
+insert into customer (first_name, last_name, email_address, password) values('suraj', 'bhise', 'suraj@gmail.com', 'suraj');
